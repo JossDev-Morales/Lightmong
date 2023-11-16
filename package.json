@@ -1,0 +1,19 @@
+{
+  "name": "lightmong",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "ts": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongodb": "^6.2.0",
+    "node-forge": "^1.3.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  }
+}
